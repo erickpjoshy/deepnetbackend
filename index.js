@@ -12,10 +12,7 @@ const app = express();
 const allowedOrigins = [
   'http://localhost:5173',
   'http://127.0.0.1:5173',
-  'http://localhost:5176',
-  'http://127.0.0.1:5173',
-  'https://backend.testing4.xyz/',
-  'http://backend.testing4.xyz/',
+  'https://deepnet.erickpjoshy.cloud',
 ];
 
 const corsOptions = {

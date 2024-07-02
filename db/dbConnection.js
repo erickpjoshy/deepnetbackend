@@ -2,7 +2,7 @@ import mongoose from 'mongoose';
 
 mongoose
   .connect(
-    'mongodb+srv://akhilakd5299:Cd0eezyVBfeGpXQO@elitebuildings.tydupe8.mongodb.net/?retryWrites=true&w=majority&appName=elitebuildings'
+    'mongodb+srv://erickpjoshy:HLLuUnwG2LoebG7b@deepnet.b1lddjy.mongodb.net/?retryWrites=true&w=majority&appName=deepnet'
   )
   .then(() => {
     console.log('Db Connected');
